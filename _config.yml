@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "" # apply to all files
+    values:
+      layout: "page" # use default page layout
