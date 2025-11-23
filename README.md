@@ -15,6 +15,7 @@ This repository serves as the central hub for all LUGAN organizational files, go
 | **[CONTRIBUTING.md](CONTRIBUTING.md)** | Provides detailed guidelines on how to contribute to LUGAN, covering code submission (PRs), organizational governance (using GitHub Polls/Issues), and how to provide informal feedback. |
 | **[JOIN_US.md](JOIN_US.md)** | Explains how to become a member, providing quick access links for our online platforms (Telegram, Discord) and details on our monthly physical meetings at **UNIVPM**. |
 | **[PROJECTS.md](PROJECTS.md)** | A dynamic list of current and past software projects and initiatives where LUGAN members are actively collaborating, developing, or contributing code and documentation. |
+| **[_config.yml](_config.yml)** | The Jekyll configuration file for rendering the static site using GitHub pages |
 
 ---
 
