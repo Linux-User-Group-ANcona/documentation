@@ -1,3 +1,8 @@
+---
+layout: page
+title: Code of Conduct
+permalink: /code-of-conduct/
+---
 # Code of Conduct
 
 ## Our pledge
