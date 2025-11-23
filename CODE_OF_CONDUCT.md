@@ -10,6 +10,7 @@ We pledge to welcome people regardless of age, body size, disability, ethnicity,
 ## Our standards
 
 ### ✅ Behaviors that help build a positive environment:
+
 - Using welcoming and inclusive language. We are a mix of students, professionals, and enthusiasts; kindness is our default setting.
 
 - Being respectful of differing viewpoints. In research and coding, disagreement is natural. Challenge the code or the idea, never the person.
