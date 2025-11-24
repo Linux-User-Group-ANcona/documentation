@@ -54,6 +54,10 @@ If you find a problem in our code or have an idea for a new feature:
   * Use clear and descriptive titles.
   * Follow the provided Issue template (if available).
 
+***Please follow these rules for commit naming conventions:***
+- [YASE | setup git repo](https://leviathan36.github.io/yase/rest_api_101/5_setup_git_repo/Setup_git_repo.html)
+- [conventional commits | summary](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+
 -----
 
 ## Shaping the organization (LUGAN governance)
