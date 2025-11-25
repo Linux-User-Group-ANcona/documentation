@@ -16,6 +16,7 @@ This repository serves as the central hub for all LUGAN organizational files, go
 | **[JOIN_US.md](JOIN_US.md)** | Explains how to become a member, providing quick access links for our online platforms (Telegram, Discord) and details on our monthly physical meetings at **UNIVPM**. |
 | **[PROJECTS.md](PROJECTS.md)** | A dynamic list of current and past software projects and initiatives where LUGAN members are actively collaborating, developing, or contributing code and documentation. |
 | **[WORKFLOW_AND_REPOSITORIES_STRUCTURE.md](WORKFLOW_AND_REPOSITORIES_STRUCTURE.md)** | Describes the workflow and structure of the organization's repositories. |
+| **[WEBSITE.md](WEBSITE.md)** | Describes the structure of the entire organization's website and which technologies are used. |
 | **\*** | Configuration files useful for rendering the website with Jekyll or other technical stuff. |
 
 ---
