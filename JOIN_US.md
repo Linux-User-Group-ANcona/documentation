@@ -9,10 +9,10 @@ If you are ready to learn, contribute to Open Source, and help solve real-world 
 ## 💻 Online
 The fastest way to join the conversation, ask quick questions, and find technical help is through our online chat platforms. Our digital doors are always open!
 
-| Platform | Purpose | Link |
-| :--- | :--- | :--- |
-| **Telegram** | Quick chat, urgent questions, community bonding. | [TODO: working in progress] |
-| **Discord** | Topic-specific discussions, structured chat, and voice meetings. | [TODO: working in progress] |
+| Platform | Purpose | Link                                  |
+| :--- | :--- |:--------------------------------------|
+| **Telegram** | Quick chat, urgent questions, community bonding. | [lug_ancona](https://t.me/lug_ancona) |
+| **Discord** | Topic-specific discussions, structured chat, and voice meetings. | [work in progress]           |
 
 **Note:** Follow the announcements on these channels for the fastest updates on new projects and events.
 

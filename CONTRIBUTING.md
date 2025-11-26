@@ -89,7 +89,7 @@ Not every contribution needs a formal PR or Issue. We highly value quick feedbac
 
 For spontaneous ideas, quick affirmation, or low-friction feedback:
 
-  * **Join our Telegram or Discord channels.**
+  * **Join our Telegram or Discord channels ([JOIN_US.md](JOIN_US.md)).**
   * Share quick ideas, run simple polls, or simply affirm support by saying things like **"Yes, cool, let's do it\!"** or **"Thumbs up\!"** This rapid feedback helps the project leaders gauge immediate community sentiment.
 
 ### 🎙️ In person discussion

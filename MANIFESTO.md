@@ -24,6 +24,6 @@ A Linux User Group (LUG) is a social group formed by people who uphold the princ
 
 **Physical node**: we are based in Ancona, hosted by UNIVPM (Università Politecnica delle Marche). This is where we meet face-to-face to hack and learn.
 
-**Daily stream**: for quick messages, questions, and day-to-day chat, we use Telegram and Discord.
+**Daily stream**: for quick messages, questions, and day-to-day chat, we use Telegram and Discord ([JOIN_US.md](JOIN_US.md)).
 
 **The Core**: GitHub is our true headquarters. It is where we manage projects and where decisions are made. If it's not on GitHub, it didn't happen.
