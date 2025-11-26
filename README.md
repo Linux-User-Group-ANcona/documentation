@@ -26,6 +26,17 @@ This repository serves as the central hub for all LUGAN organizational files, go
 ## 🚀 Get Started
 
 Ready to contribute?
-1. **Join the chat:** Find us on [Telegram / Discord] to introduce yourself.
+1. **Join the chat:** Find us on:
+    - Telegram: [lug ancona](https://t.me/lug_ancona)
+    - Discord: [work in progress]
 2. **Review the rules:** Read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 3. **Start coding:** Check the [PROJECTS.md](PROJECTS.md) file and follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+<br>
+
+## [📅 Events](https://linux-user-group-ancona.github.io/events)
+
+All information about our upcoming physical meetings, workshops, and online seminars.
+Find the full schedule on our website: [LUGAN Events](https://linux-user-group-ancona.github.io/events)
