@@ -40,7 +40,7 @@ If you are contributing code or fixing documentation:
 2.  Create a **new branch** for your changes.
 3.  Make your changes adhering to project guidelines.
 4.  **Commit**: Your commit messages **MUST** follow these conventions:
-    * [YASE | setup git repo](https://leviathan36.github.io/yase/rest_api_101/5_setup_git_repo/Setup_git_repo.html)
+    * [YASE - setup git repo](https://leviathan36.github.io/yase/rest_api_101/5_setup_git_repo/Setup_git_repo.html)
     * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) (e.g., `feat: add new login page`, `fix: correct typo in readme`).
 5.  **Open a Pull Request (PR)** against the `main` branch.
 
