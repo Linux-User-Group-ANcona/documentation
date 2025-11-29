@@ -1,7 +1,10 @@
 title: LUGAN - Linux User Group ANcona
 description: Governance and Code of LUGAN
 
-theme: jekyll-theme-cayman
+plugins:
+- jekyll-remote-theme
+
+remote_theme: pages-themes/cayman@v0.2.0
 
 defaults:
   - scope:
