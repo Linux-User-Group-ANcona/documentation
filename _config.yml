@@ -1,6 +1,8 @@
 title: LUGAN | Linux User Group ANcona
 description: Governance and Code of LUGAN
 
+google_analytics: G-LBLE8B6770
+
 plugins:
 - jekyll-remote-theme
 
