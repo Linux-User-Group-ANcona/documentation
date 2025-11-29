@@ -1,3 +1,8 @@
+title: LUGAN - Linux User Group ANcona
+description: Governance and Code of LUGAN
+
+theme: jekyll-theme-cayman
+
 defaults:
   - scope:
       path: "" # apply to all files
