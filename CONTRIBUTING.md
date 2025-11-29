@@ -1,103 +1,77 @@
+# 🏗️ CONTRIBUTING to LUGAN
+
+LUGAN is built by its community. We don't just use open source software; we build it, research it, and govern it together. Your input is vital.
+
+## 🚦 Before You Start
+> **Important:** To ensure a welcoming and productive environment, please review our **[Code of Conduct](CODE_OF_CONDUCT.md)**.
+
 ---
----
-# CONTRIBUTING to LUGAN
 
-LUGAN is built by its community. We don't just use Free Software; we build it, research it, and govern it together. Your input, whether code or conversation, is vital to our mission.
+## 🗺️ Quick Map: What do you want to do?
 
-<br>
+Find your path based on the type of contribution:
 
-## TL;DR
-
-| Type of Contribution | Platform/Location | Action Required |
+| If you want to... | Go to... | Action Required |
 | :--- | :--- | :--- |
-| **Code & Documentation** | GitHub Repositories | Fork, submit Pull Requests (PRs), or open Issues for bugs and features. |
-| **Organizational Governance** | GitHub Issues & Discussions | Open an Issue to propose changes to guidelines (MANIFESTO, CoC), and use Discussion Polls for formal voting. |
-| **Informal Feedback & Quick Ideas** | Telegram / Discord | Use chat for quick polls, rapid affirmation ("Yes, cool, let's do it!"), and immediate sentiment gauging. |
-| **In Person Input** | UNIVPM Meetings (Talks/Workshops) | Participate in physical sessions to challenge ideas, propose new research, and share opinions. |
-
-<br>
+| **Write Code / Docs** | GitHub Repositories | Fork & Pull Request (PR) |
+| **Report Bugs / Request Features** | GitHub Issues | Open an Issue |
+| **Change Group Rules** | GitHub Issues | Open a Proposal Issue |
+| **Vote on Decisions** | GitHub Discussions | Participate in Polls |
+| **Share Quick Ideas** | [Telegram](https://t.me/lug_ancona) / Discord | Chat |
+| **Debate in Person** | UNIVPM | Meetings & Workshops |
 
 ---
 
-<br>
+## 💻 Path A: Technical Contributions (Code & Docs)
+*All development happens on our GitHub repositories.*
 
-## Before You Start
+### 1. Reporting Bugs or Requesting Features
+Not ready to write code? No problem.
+* Go to the relevant project repository.
+* **Open an Issue**.
+* Use a clear title and follow the provided template (if available).
 
-### 🤝 Code of Conduct
+### 2. Submitting Changes (Workflow)
+If you are contributing code or fixing documentation:
 
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. We expect all contributors to follow these guidelines to ensure a welcoming, respectful, and productive environment.
+1.  **Fork** the project repository.
+2.  Create a **new branch** for your changes.
+3.  Make your changes adhering to project guidelines.
+4.  **Commit**: Your commit messages **MUST** follow these conventions:
+    * [YASE | setup git repo](https://leviathan36.github.io/yase/rest_api_101/5_setup_git_repo/Setup_git_repo.html)
+    * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) (e.g., `feat: add new login page`, `fix: correct typo in readme`).
+5.  **Open a Pull Request (PR)** against the `main` branch.
 
-### 🔍 Where to Contribute
+---
 
-We primarily distinguish between two types of contributions: **Technical/Code** and **Governance/Organizational**.
+## 🏛️ Path B: Governance (Rules & Structure)
+*LUGAN’s structure is managed collaboratively via "Organization as Code."*
 
------
+### 1. Proposing Changes to Guidelines
+Do you want to modify the **MANIFESTO**, **Code of Conduct**, or internal rules?
+* Treat these documents like code.
+* **Open an Issue** in the main LUGAN repository.
+* Explain the reasoning and the intended impact clearly.
 
-## Technical & Code contributions
+### 2. Formal Voting
+For key decisions (elections, budgets, new policies):
+* Go to the **GitHub Discussions** tab.
+* Look for **Polls** to cast your formal vote transparently.
 
-All active development happens on our GitHub repositories. This is the place for code, documentation, and specific feature proposals.
+---
 
-### A. Submitting code changes (Pull Requests)
+## 🗣️ Path C: Community & Quick Sync
+*Not every contribution requires a formal procedure.*
 
-If you have written code, fixed a bug, or improved documentation for any project managed by LUGAN:
+### Chat & Immediate Feedback 🚀
+For spontaneous ideas or quick affirmation ("Yes, let's do it!"):
+* **Join our Telegram or Discord channels** (see **[JOIN_US.md](JOIN_US.md)**).
+* Use the chat for quick polls and to gauge immediate community sentiment.
 
-  * **Fork** the relevant project repository.
-  * Make your changes in a new branch.
-  * Ensure your code adheres to any existing project guidelines.
-  * **Open a Pull Request (PR)** against the `main` branch.
+### In-Person Discussion 🎙️
+For deep debates and workshops:
+* Join us at **UNIVPM**: this is the space to challenge ideas, propose research, and discuss opinions face-to-face.
 
-### B. Reporting bugs and proposing features (Issues)
+---
 
-If you find a problem in our code or have an idea for a new feature:
-
-  * **Open an Issue** in the relevant project repository.
-  * Use clear and descriptive titles.
-  * Follow the provided Issue template (if available).
-
-***Please follow these rules for commit naming conventions:***
-- [YASE | setup git repo](https://leviathan36.github.io/yase/rest_api_101/5_setup_git_repo/Setup_git_repo.html)
-- [conventional commits | summary](https://www.conventionalcommits.org/en/v1.0.0/#summary)
-
------
-
-## Shaping the organization (LUGAN governance)
-
-Our group structure and rules are managed collaboratively, often referred to as "Governance as Code."
-
-### A. Proposing changes to group guidelines
-
-To formally propose changes, modifications, or discussions regarding foundational documents:
-
-  * **Open an Issue** against the main LUGAN repository (or the repository where the document resides).
-  * This applies to files like the **MANIFESTO**, **Code of Conduct (CoC)**, and other internal guidelines.
-  * Treat these changes with the same rigor as a Pull Request, explaining the reasoning and the intended impact.
-
-### B. Formal group voting
-
-When formal consensus is required for key decisions (e.g., electing officers, approving major budget items, adopting new policies):
-
-  * **Use the GitHub Discussions tab** for structured debate.
-  * **Formal votes are held using the Polls feature** within the Discussions tab to ensure transparency and trackability.
-
------
-
-## Informal feedback and quick sync
-
-Not every contribution needs a formal PR or Issue. We highly value quick feedback and active participation in our daily stream.
-
-### 🚀 Community chat & quick polls
-
-For spontaneous ideas, quick affirmation, or low-friction feedback:
-
-  * **Join our Telegram or Discord channels ([JOIN_US.md](JOIN_US.md)).**
-  * Share quick ideas, run simple polls, or simply affirm support by saying things like **"Yes, cool, let's do it\!"** or **"Thumbs up\!"** This rapid feedback helps the project leaders gauge immediate community sentiment.
-
-### 🎙️ In person discussion
-
-Our physical meetings at **UNIVPM** are a vital space for discussion and debate.
-
-  * **Participate in talks and workshops.** Use these sessions to say your piece, challenge ideas, or propose new research directions in person.
-
------
-
-**Thank you for helping us build LUGAN\!**
+**Thank you for helping us build LUGAN!**
