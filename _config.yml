@@ -1,4 +1,4 @@
-title: LUGAN - Linux User Group ANcona
+title: LUGAN | Linux User Group ANcona
 description: Governance and Code of LUGAN
 
 plugins:
@@ -7,7 +7,7 @@ plugins:
 remote_theme: pages-themes/cayman@v0.2.0
 
 defaults:
-  - scope:
-      path: "" # apply to all files
-    values:
-      layout: "page" # use default page layout
+    - scope:
+        path: "" # apply to all files
+      values:
+        layout: "default"
