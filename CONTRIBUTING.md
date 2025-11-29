@@ -1,3 +1,5 @@
+---
+---
 # 🏗️ CONTRIBUTING to LUGAN
 
 LUGAN is built by its community. We don't just use open source software; we build it, research it, and govern it together. Your input is vital.
