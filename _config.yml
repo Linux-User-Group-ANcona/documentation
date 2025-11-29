@@ -6,7 +6,7 @@ google_analytics: G-LBLE8B6770
 plugins:
 - jekyll-remote-theme
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: leviathan36/cayman@v0.2.1-GA_fixed
 
 defaults:
     - scope:
