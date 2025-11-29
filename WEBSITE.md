@@ -30,6 +30,32 @@ If a repository is intended to be a visible part of the LUGAN website:
 
 ---
 
+## 🌐 Web Standards & Theme Uniformity (Mandatory)
+
+To ensure visual consistency across all LUGAN projects hosted on GitHub Pages, every new repository must adopt the official LUGAN theme configuration.
+
+### Action: Standardize `_config.yml`
+
+You **should** copy and use the following `_config.yml` for the new repository:
+
+```yaml
+title: <choice your title>
+description: <choice your description>
+
+plugins:
+- jekyll-remote-theme
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+defaults:
+  - scope:
+      path: "" # apply to all files
+    values:
+      layout: "default"
+```
+
+---
+
 ## ⚠️ Troubleshooting: Markdown Not Rendering?
 
 If your Markdown page is not redirecting correctly, or if it renders as raw text/code instead of a styled HTML page, it is likely due to a missing Jekyll trigger.
